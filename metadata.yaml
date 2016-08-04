@@ -1,0 +1,26 @@
+_repo: The-Land-of-Footprints_1378
+_version: 0.0.1
+creator:
+  author:
+    agent_name: White, Stewart Edward
+    birthdate: 1873
+    deathdate: 1946
+    gutenberg_agent_id: '247'
+    url: http://www.gutenberg.org/2009/agents/247
+    wikipedia: http://en.wikipedia.org/wiki/Stewart_Edward_White
+description: ''
+gutenberg_issued: '1998-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1378'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Africa, East -- Description and travel'
+- !lcc 'SK'
+- !lcsh 'Hunting -- Africa, East'
+- GITenberg
+title: The Land of Footprints
+url: http://www.gutenberg.org/ebooks/1378
